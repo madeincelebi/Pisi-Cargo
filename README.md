@@ -14,3 +14,4 @@ Linux 6.x
 
 
 ## (Anadolu Linux) Her Hafta Güncellenenler;
+KDE (pisi edition)
