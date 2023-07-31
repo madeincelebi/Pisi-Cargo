@@ -2,16 +2,8 @@
 
 ##
 
-Bu Depo Hem Anadolu Linux Hemde ritimOS için yapılmış Bir Ortak Depodur
-
-## (ritimOS) Her Hafta Güncellenenler;
-
-GNOME (pisi edition)
-
-REU (ritimOS Evrensel Uygulamaları)
-
-Linux 6.x
-
 
 ## (Anadolu Linux) Her Hafta Güncellenenler;
 KDE (pisi edition)
+Cinnamon
+Linux 6.x
